@@ -1,0 +1,7 @@
+site_name: MKDonalds
+site_url: https://example.com
+nav:
+  - Home: index.md
+  - About: about.md
+  - Scan: 'https://www.scan.co.uk/'
+theme: readthedocs
